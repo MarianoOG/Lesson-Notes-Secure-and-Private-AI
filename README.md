@@ -27,4 +27,5 @@ pip install syft
 This is one of the initiatives of the course, I will use this repository to elaborate on the challenges as well as other ideas related to the course. Here the list of the progress made:
 
 * **Day 1:** First template on [Study Tips](Study%20Tips.md) and general plan for the 60 days of code challenge.
-* **Day 2:** Tomorrow...
+* **Day 2:** Engage in the slack comunity and divide Section 1 in lessons for this notes (still work to be done there).
+* **Day 3:** Tomorrow...
