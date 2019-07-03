@@ -8,7 +8,7 @@ This is my personal notes from the [course of udacity](https://eu.udacity.com/co
 
 Every Notebook will have a badge at the top called *Open in Colab*. To run in Google Colab you can click on the button that will look like this:
 
-![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]( https://colab.research.google.com/github/MarianoOG/Lesson-Notes-Secure-and-Private-AI)
 
 ### Run locally
 

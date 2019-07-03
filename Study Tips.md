@@ -2,6 +2,25 @@
 
 Because of work I have been struggling to get time to work in this course. I got a few sleep and not as much progress as I would love to do. This is the list of thing I have done so far and that will probably help you as well to go through this course (or others).
 
+## External free resources
+
+- [Algorithmic Foundations of Differential Privacy](https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf)
+- [Deep Learning with Differential Privacy](https://arxiv.org/pdf/1607.00133.pdf)
+
+## Advice
+
+### For deployments - stick with public frameworks!
+
+This will make you avoid security issues and also help you stay in the state on the art and updated.
+
+### Join the Differential Privacy Community
+
+You can find them in http://slack.openmined.org/.
+
+### Don't get ahead of yourself - DP is still in the early days
+
+This means that new tecnologies are always raising and falling, there's no correct way to do things. Feel free to inovate and open to incorporate others techniques and drop down previous ideas.
+
 ### Speed up
 
 Use speed 2x or 3x in the videos (or as fast as you can handle), most of them have really long explanations or even pauses so it will be fine. If you struggle to slow down if you are getting bored, then speed up. I recommend video control speed extension for chrome cause it lets you go beyond 2x that youtube offers natively.
