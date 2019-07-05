@@ -28,4 +28,6 @@ This is one of the initiatives of the course, I will use this repository to elab
 
 * **Day 1:** First template on [Study Tips](Study%20Tips.md) and general plan for the 60 days of code challenge.
 * **Day 2:** Engage in the slack comunity and divide Section 1 in lessons for this notes (still work to be done there).
-* **Day 3:** Tomorrow...
+* **Day 3:** Worked on the notes around parallel databases and evaluating the differencial privacy of a query.
+* **Day 4:** Reagange section 1 in a Lesson-Proyect-Code basis also read some articles and videos around privacy.
+* **Day 5:** Read about permissions in browser extensions and which data they have access to. Join study groups and learn about other initiatives like the [Papers Discussion Club](https://github.com/papersdclub/theclub).
