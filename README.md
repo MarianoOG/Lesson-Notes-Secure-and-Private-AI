@@ -22,12 +22,8 @@ conda install pytorch torchvision -c pytorch
 pip install syft
 ```
 
-## #60DaysOfUdacity
+## Initiatives
 
-This is one of the initiatives of the course, I will use this repository to elaborate on the challenges as well as other ideas related to the course. Here the list of the progress made:
+I will use this repository to elaborate on the challenges as well as other ideas related to the course I will be writing my progress day by day in the [#60DaysOfUdacity](60DaysOfUdacity.md) list which is one of the initiatives of the course.
 
-* **Day 1:** First template on [Study Tips](Study%20Tips.md) and general plan for the 60 days of code challenge.
-* **Day 2:** Engage in the slack comunity and divide Section 1 in lessons for this notes (still work to be done there).
-* **Day 3:** Worked on the notes around parallel databases and evaluating the differencial privacy of a query.
-* **Day 4:** Reagange section 1 in a Lesson-Proyect-Code basis also read some articles and videos around privacy.
-* **Day 5:** Read about permissions in browser extensions and which data they have access to. Join study groups and learn about other initiatives like the [Papers Discussion Club](https://github.com/papersdclub/theclub).
+You can also follow the progress in [twitter](https://twitter.com/Mariano_OG/status/1145344794690031619?ref_src=twsrc%5Etfw").
