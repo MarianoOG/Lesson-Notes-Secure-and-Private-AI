@@ -57,6 +57,10 @@ I know this video is not completely related but still makes sense to me since pr
 
 [![Thinking Like a Data Scientist](https://img.youtube.com/vi/FGDaxOvQapc/0.jpg)](https://www.youtube.com/watch?v=FGDaxOvQapc)
 
+## Day 12
+
+Participated in AMA sessions and come back to slack community. After two week break.
+
 ## Todo list
 
 - Finish lesson notes and proyects
