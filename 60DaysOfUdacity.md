@@ -61,6 +61,14 @@ I know this video is not completely related but still makes sense to me since pr
 
 Participated in AMA sessions and come back to slack community. After two week break.
 
+## Day 13
+
+Watched The Great Hack, a documentary about Cambidge Analytica Story. It talks about privacy and the lack of democracy that technology allows.
+
+## Day 14
+
+Reviewed topics on lesson 7 about federated learning. Participated in the weekly Kahoot quiz and wrote some reflections about privacy.
+
 ## Todo list
 
 - Finish lesson notes and proyects
