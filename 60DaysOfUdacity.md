@@ -69,6 +69,12 @@ Watched The Great Hack, a documentary about Cambidge Analytica Story. It talks a
 
 Reviewed topics on lesson 7 about federated learning. Participated in the weekly Kahoot quiz and wrote some reflections about privacy.
 
+## Day 15
+
+Working on the script of the podcast episode around privacy. I will discuss about differential privacy and some discussions talked in this community around privacy.
+
+Its mid-related but I have also been reviewing some topics about probability. It includes things like Markov chains so I guess it has something to do with the topic.
+
 ## Todo list
 
 - Finish lesson notes and proyects
