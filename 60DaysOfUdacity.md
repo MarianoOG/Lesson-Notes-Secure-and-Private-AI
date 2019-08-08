@@ -75,6 +75,10 @@ Working on the script of the podcast episode around privacy. I will discuss abou
 
 Its mid-related but I have also been reviewing some topics about probability. It includes things like Markov chains so I guess it has something to do with the topic.
 
+## Day 16
+
+I watched the The LinkedIn Guide to Getting Interviews without Applying. Part 1: Profile Optimization https://youtu.be/vMFxH5zH1Fo Not necessarily part of the course but part of Udacity.
+
 ## Todo list
 
 - Finish lesson notes and proyects
