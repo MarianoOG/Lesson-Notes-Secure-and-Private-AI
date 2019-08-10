@@ -79,6 +79,11 @@ Its mid-related but I have also been reviewing some topics about probability. It
 
 I watched the The LinkedIn Guide to Getting Interviews without Applying. Part 1: Profile Optimization https://youtu.be/vMFxH5zH1Fo Not necessarily part of the course but part of Udacity.
 
+## Day 17
+
+Participated in the weekly Kahoot quiz and wrote some reflections about privacy.
+Updated my notes from section 1 to be more simple and self explanatory in lesson 1, 2 and 3.
+
 ## Todo list
 
 - Finish lesson notes and proyects

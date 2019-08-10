@@ -1,6 +1,6 @@
-# Lesson Notes Secure and Private AI
+# Lesson Notes: Secure and Private AI
 
-This is my personal notes from the [course of udacity](https://eu.udacity.com/course/secure-and-private-ai--ud185) part of the [Facebook Scholarship Challenge](https://eu.udacity.com/facebook-AI-scholarship). These notes are forked from the original notes of the course but with some comments and notes added.
+This is my personal notes from the course of udacity [Secure and Private AI](https://eu.udacity.com/course/secure-and-private-ai--ud185) part of the [Facebook Scholarship Challenge](https://eu.udacity.com/facebook-AI-scholarship). These notes are forked from the original repository of the course but with some comments and notes added.
 
 ## How to use the Jupyter Notebooks in this repository
 
@@ -24,6 +24,6 @@ pip install syft
 
 ## Initiatives
 
-I will use this repository to elaborate on the challenges as well as other ideas related to the course I will be writing my progress day by day in the [#60DaysOfUdacity](60DaysOfUdacity.md) list which is one of the initiatives of the course.
+I will use this repository to elaborate on the challenges as well as other ideas related to the course. My progress day by day is written in the [#60DaysOfUdacity](60DaysOfUdacity.md) list which is one of the initiatives of the course.
 
 You can also follow the progress in [twitter](https://twitter.com/Mariano_OG/status/1145344794690031619?ref_src=twsrc%5Etfw").
