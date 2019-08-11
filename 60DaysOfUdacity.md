@@ -84,6 +84,11 @@ I watched the The LinkedIn Guide to Getting Interviews without Applying. Part 1:
 Participated in the weekly Kahoot quiz and wrote some reflections about privacy.
 Updated my notes from section 1 to be more simple and self explanatory in lesson 1, 2 and 3.
 
+## Day 18
+
+Participated in the weekly Kahoot quiz and wrote some reflections about privacy.
+Working on simplifying notes on differencial privacy adding local noise.
+
 ## Todo list
 
 - Finish lesson notes and proyects
