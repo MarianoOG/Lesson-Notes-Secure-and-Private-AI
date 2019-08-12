@@ -89,9 +89,13 @@ Updated my notes from section 1 to be more simple and self explanatory in lesson
 Participated in the weekly Kahoot quiz and wrote some reflections about privacy.
 Working on simplifying notes on differencial privacy adding local noise.
 
+## Day 19
+
+Worked on global differential privacy, epsilon-delta definition and laplacian noise on the notes (lesson 3,4,5 of section 1) .
+
 ## Todo list
 
-- Finish lesson notes and proyects
-- Finish [Algorithmic Foundations of Differential Privacy](https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf)
-- [Deep Learning with Differential Privacy](https://arxiv.org/pdf/1607.00133.pdf)
-- Participate in a kaggle competition or make a kaggle kernel
+- [ ] Finish lesson notes and proyects
+- [ ] Read [Algorithmic Foundations of Differential Privacy](https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf)
+- [ ] Read [Deep Learning with Differential Privacy](https://arxiv.org/pdf/1607.00133.pdf)
+- [ ] Participate in a kaggle competition or make a kaggle kernel
