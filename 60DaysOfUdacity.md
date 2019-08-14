@@ -93,6 +93,10 @@ Working on simplifying notes on differencial privacy adding local noise.
 
 Worked on global differential privacy, epsilon-delta definition and laplacian noise on the notes (lesson 3,4,5 of section 1) .
 
+## Day 20
+
+Finished with Laplace noise and delta-epsilon definition. Working on PATE analysis and differential privacy for deep learning. 
+
 ## Todo list
 
 - [ ] Finish lesson notes and proyects
