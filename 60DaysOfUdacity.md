@@ -97,6 +97,10 @@ Worked on global differential privacy, epsilon-delta definition and laplacian no
 
 Finished with Laplace noise and delta-epsilon definition. Working on PATE analysis and differential privacy for deep learning. 
 
+## Day 21
+
+I get now what PATE is used for, it was a blank in the course for me. I needed to see again the videos and make again the project and play around but finally is done.
+
 ## Todo list
 
 - [ ] Finish lesson notes and proyects
