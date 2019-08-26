@@ -1,6 +1,16 @@
 # #60DaysOfUdacity
 
-This is one of the initiatives of the course, it consist on doing something related to the course at least 30 minutes during 60 days. This course was really hard to complete and follow acordingly becuase of personal and familiar problems however work had been done and I pushed to continue on it until a point that makes sense. And also keep 
+This is one of the initiatives of the course, it consist on doing something related to the course at least 30 minutes during 60 days.
+
+### What did I learned from this challenge
+
+This challenge was really hard to complete and follow becuase of personal and familiar problems. I pushed myself to continue on it until a point that makes sense but to be honest I didn't fully enjoyed some parts of it. 
+
+I discovered that I don't really like daily challenges. It demotivates me instead of helping me. It stops creativity for me, because it feels like you can only do a really small subset of things instead of going all-in. Also I work better with massive marathons and long breaks. This means I can get completly obssed with certain topic for a week or two and then leave it resting for a while. I can't really do 30 min each day. When I want to go deeper, it feels restrictive and when I don't want to do anything, it feels impositive.
+
+Practice is always king. I rushed into watching the videos at the begging and complete the course really quick but later on discovered several holes in my understanding because of it. The challenge helped me to go back on some things that without a plan I will never revisit and therefore not getting the whole idea.
+
+Privacy is important but not my topic. Unfortunatelly it was not a topic that I loved. It was interesting to learn but not to keep. Since the course started I have been programming almost dialy but in unrelated things. So I discovered myself in my long-term interests and realize privacy is not one of them.
 
 ## Day 1
 
