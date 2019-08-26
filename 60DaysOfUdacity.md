@@ -1,6 +1,6 @@
 # #60DaysOfUdacity
 
-This is one of the initiatives of the course, it consist on doing something related to the course at least 30 minutes during 60 days.
+This is one of the initiatives of the course, it consist on doing something related to the course at least 30 minutes during 60 days. This course was really hard to complete and follow acordingly becuase of personal and familiar problems however work had been done and I pushed to continue on it until a point that makes sense. And also keep 
 
 ## Day 1
 
@@ -101,9 +101,43 @@ Finished with Laplace noise and delta-epsilon definition. Working on PATE analys
 
 I get now what PATE is used for, it was a blank in the course for me. I needed to see again the videos and make again the project and play around but finally is done.
 
-## Todo list
+## Day 22
 
-- [ ] Finish lesson notes and proyects
-- [ ] Read [Algorithmic Foundations of Differential Privacy](https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf)
-- [ ] Read [Deep Learning with Differential Privacy](https://arxiv.org/pdf/1607.00133.pdf)
-- [ ] Participate in a kaggle competition or make a kaggle kernel
+Participated in Resume Review dynamic. On #jobs channel in the slack community. 
+
+## Day 23
+
+Worked on notes on section 2, federated learning. 
+Made a plan on how to finish this course and challenge.
+
+## Day 24 (pending)
+
+Finished notes on section 2.
+
+## Day 25 (pending)
+
+Worked on notes on section 3
+
+## Day 26 (pending)
+
+Finished noted on section 3 and start notes on section 4.
+
+## Day 27 (pending)
+
+Finished notes on Section 4.
+
+## Day 28 (pending)
+
+Write script of episode describing the topics related to the course.
+
+## Day 29 (pending)
+
+Record podcast episode about differential privacy and federated learning.
+
+## Day 30 (pending)
+
+Finish to edit and upload episode about privacy.
+
+## Day 31-60 (pending)
+
+For the next 30 days I will work in kaggle. Becuase its a different proyect and comunity I believe I will make it in a separate repository.
