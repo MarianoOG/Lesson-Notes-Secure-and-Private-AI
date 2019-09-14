@@ -14,7 +14,7 @@ Privacy is important but not my topic. Unfortunatelly it was not a topic that I 
 
 ## Day 1
 
-First template on [Study Tips](Study%20Tips.md) and general plan for the 60 days of code challenge.
+First template on Study Tips article and general plan for the 60 days of code challenge.
 
 ## Day 2
 
@@ -120,34 +120,34 @@ Participated in Resume Review dynamic. On #jobs channel in the slack community.
 Worked on notes on section 2, federated learning. 
 Made a plan on how to finish this course and challenge.
 
-## Day 24 (pending)
+## Day 24
 
 Finished notes on section 2.
 
-## Day 25 (pending)
+## Day 25
 
 Worked on notes on section 3
 
-## Day 26 (pending)
+## Day 26
 
 Finished noted on section 3 and start notes on section 4.
 
-## Day 27 (pending)
+## Day 27
 
 Finished notes on Section 4.
 
-## Day 28 (pending)
+## Day 28
 
 Write script of episode describing the topics related to the course.
 
-## Day 29 (pending)
+## Day 29
 
 Record podcast episode about differential privacy and federated learning.
 
-## Day 30 (pending)
+## Day 30
 
 Finish to edit and upload episode about privacy.
 
-## Day 31-60 (pending)
+## Day 31-60
 
-For the next 30 days I will work in kaggle. Becuase its a different proyect and comunity I believe I will make it in a separate repository.
+For the next 30 days I will work in kaggle and the AWS DeepRacer challenge. Becuase its a different proyect and comunity I believe I will be done in a different repository.
